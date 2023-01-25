@@ -1,9 +1,9 @@
 # Git
 
-git add "filename"
-git commit -m "Message"
-git pull --rebase origin main
-git push origin main
+git add "filename" <br />
+git commit -m "Message" <br />
+git pull --rebase origin main <br />
+git push origin main <br />
 
 
 ## Machine_L
